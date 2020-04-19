@@ -9,8 +9,14 @@ The following steps were followed:
 <li>A lambda function was created with a python environment. Admin role was chosen for full access.
 <li>In the cloud9 environment lambda fuction was created and existing role was chosen
 <li>A python file by name "lambda_function" was created
-<li>A table by name "fang" was created in DynaboDB with few rows of data\
+<li>A table by name "fang" was created in DynaboDB with few rows of data
 <li>A trigger was set up using cloud watch
+  
+![image](https://user-images.githubusercontent.com/47410643/79695551-7bd2fa80-8245-11ea-850d-c11c0b212f00.png)
+
 <li>Lambda function was deployed
-<li>Messages are populated in SQS   
+<li>Messages are populated in SQS 
+
+![image](https://user-images.githubusercontent.com/47410643/79695499-31ea1480-8245-11ea-8141-2add70585524.png)
+  
   
