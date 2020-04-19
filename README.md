@@ -1,6 +1,6 @@
 # Serverless lambda
 
-This is a part of project for cloud computing for Data Analysis wherein we are creating a serverless AI Data engineering pipeline
+This is part of a project for cloud computing for Data Analysis wherein we are creating a serverless AI Data engineering pipeline
 
 ![image](https://user-images.githubusercontent.com/47410643/79695123-e9315c00-8242-11ea-9c6c-1be8d333514f.png)
 <br>
