@@ -8,7 +8,7 @@ The following steps were followed:
 <li>Cretaed a cloud9 environment
 <li>A lambda function was created with a python environment. Admin role was chosen for full access.
 <li>In the cloud9 environment lambda fuction was created and existing role was chosen
-<li>A python file by name "lambda_function" was created
+<li>A python file by name "lambda_function" was created in the "producer" folder
 <li>A table by name "fang" was created in DynaboDB with few rows of data
 <li>A trigger was set up using cloud watch
   
